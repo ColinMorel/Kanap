@@ -1,3 +1,5 @@
+# Kanap #
+
 Réalisation d'un site e-commerce en javascript.
 
 Pour ce projet, divers fonctionnalités étaient demandées :
@@ -6,10 +8,10 @@ Pour ce projet, divers fonctionnalités étaient demandées :
   -Liaison entre les différentes pages.
   -Modification d'informations des commandes (quantité/couleurs + ajout dans le panier).
   -Gestion du panier + création formulaire pour passer la commande.
+  
 
+##Installation : ##
 
-
-# Kanap #
 
 This is the front end and back end server for Project 5 of the Web Developer path.
 
