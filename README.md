@@ -10,8 +10,7 @@ Pour ce projet, divers fonctionnalités étaient demandées :
   -Gestion du panier + création formulaire pour passer la commande.
   
 
-##Installation : ##
-
+# Installation #
 
 This is the front end and back end server for Project 5 of the Web Developer path.
 
